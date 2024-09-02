@@ -1,16 +1,5 @@
 # 💫 About Me:
 
-# 💻 Tech Stack:
-![JavaScript] 
-![Google Maps]. 
-![PHP].
-![Laravel].
-![MySQL] 
-![React] 
-![VueJS] 
-![InertiaJS] 
-![TailwindCSS]
-
 👋 Hi, I’m Elvis aka @MindExpert on Github.<br>
 🔭 I’m currently working at 7btc.co as a Full Stack Developer and some Personal Development Projects as freelance 🌱<br>
 🤝 I’m always eager to learn about new technologies and best principles.<br>
@@ -20,6 +9,9 @@
 - 💞️ I’m looking to collaborate on new projects and new possibility to learn smth new and exciting...
 - 📫 How to reach me on my instagram account or my twiter @ElvisMuchasaj
 - Lets rock an CoDe.
+
+- # 💻 Tech Stack:
+[JavaScript] [Google Maps] [PHP] [Laravel] [MySQL] [React] [VueJS] [InertiaJS] [TailwindCSS]
 
 - ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
